@@ -26,40 +26,13 @@ Aplicação web da Vinheria Agnello: experiência digital premium de curadoria, 
 
 Edite **`src/main/resources/database.properties`** com as credenciais do seu banco. O arquivo já vem comentado para os dois cenários mais comuns.
 
-### Opção A — Oracle local (XE/Free)
-
-```properties
-db.dialect=oracle
-db.url=jdbc:oracle:thin:@//localhost:1521/XEPDB1
-db.user=vinheria
-db.password=vinheria
-```
-
-Antes de subir a aplicação, crie o usuário no Oracle (uma única vez):
-
-```sql
--- conectado como SYS / SYSTEM
-CREATE USER vinheria IDENTIFIED BY vinheria;
-GRANT CONNECT, RESOURCE TO vinheria;
-GRANT CREATE SESSION, CREATE TABLE, CREATE SEQUENCE, UNLIMITED TABLESPACE TO vinheria;
-```
-
-### Opção B — Oracle da FIAP
-
-```properties
-db.dialect=oracle
-db.url=jdbc:oracle:thin:@oracle.fiap.com.br:1521:ORCL
-db.user=RM00000
-db.password=suaSenhaFiap
-```
-
-### Opção C — MySQL 8
+### MySQL 8
 
 ```properties
 db.dialect=mysql
 db.url=jdbc:mysql://localhost:3306/vinheria?useSSL=false&serverTimezone=America/Sao_Paulo&allowPublicKeyRetrieval=true
-db.user=root
-db.password=suaSenha
+db.user=vinheria
+db.password=1234
 ```
 
 E crie o banco:
