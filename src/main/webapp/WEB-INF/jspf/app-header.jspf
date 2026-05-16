@@ -1,0 +1,31 @@
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@ taglib prefix="c" uri="jakarta.tags.core" %>
+<header class="app-header">
+    <a href="${pageContext.request.contextPath}/home" class="brand">
+        <div class="logo-box">
+            <img src="https://img.icons8.com/?size=100&id=wB7OSDpKBQsG&format=png&color=FFFFFF" alt="Vinheria Agnello">
+        </div>
+        <div class="brand-text">
+            <h1>Vinheria</h1>
+            <h1>Agnello</h1>
+        </div>
+    </a>
+    <div class="header-actions">
+        <c:if test="${sessionScope.logado}">
+            <a href="${pageContext.request.contextPath}/carrinho" class="btn-icon" title="Carrinho">
+                <img src="https://img.icons8.com/?size=100&id=Ot2P5D5MPltM&format=png&color=000000" alt="Carrinho">
+                <c:if test="${sessionScope.totalCarrinho != null && sessionScope.totalCarrinho > 0}">
+                    <span class="badge-count" data-cart-badge>${sessionScope.totalCarrinho}</span>
+                </c:if>
+            </a>
+            <a href="${pageContext.request.contextPath}/perfil" class="btn-icon" title="${sessionScope.usuario.primeiroNome}">
+                <img src="https://img.icons8.com/?size=100&id=83190&format=png&color=580c1f" alt="Perfil">
+            </a>
+        </c:if>
+        <c:if test="${!sessionScope.logado}">
+            <a href="${pageContext.request.contextPath}/login" class="btn-icon" title="Entrar">
+                <img src="https://img.icons8.com/?size=100&id=83190&format=png&color=000000" alt="Entrar">
+            </a>
+        </c:if>
+    </div>
+</header>
