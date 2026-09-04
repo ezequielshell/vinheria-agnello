@@ -1,0 +1,281 @@
+﻿id_transacao,data_venda,usuario_id,vinho_id,nome_vinho,tipo_vinho,pais_origem,regiao_vinho,safra,preco_unitario,quantidade,valor_linha,canal_venda,uf_cliente,cidade_cliente,segmento_cliente,forma_pagamento,nota_giulio,dias_desde_cadastro,qtd_pedidos_anteriores,qtd_favoritos,frete_gratis,mes_venda,dia_semana,idade_safra_anos,venda_sucesso
+1,2025-04-25,9,4,Malbec Reserva,Tinto Seco,Argentina,Mendoza,2020,180.00,1,180.00,Evento Degustacao,PE,Recife,Recorrente,Cartao Credito,4,410,6,0,0,4,Sexta,6,1
+2,2024-03-18,15,7,Sauvignon Blanc,Branco Seco,Nova Zelandia,Marlborough,2022,150.00,2,300.00,WhatsApp Giulio,SC,Florianopolis,Novo,PIX,3,63,0,5,0,3,Terca,4,0
+3,2024-07-25,12,1,Brunello di Montalcino,Tinto Seco,Italia,Toscana,2016,890.00,2,1780.00,Instagram,MG,Uberlandia,Recorrente,PIX,5,343,7,2,1,7,Quinta,10,1
+4,2024-12-09,19,2,Barolo Riserva,Tinto Seco,Italia,Piemonte,2015,1250.00,1,1250.00,Site Vinheria,SP,Sao Paulo,Recorrente,Boleto,5,677,5,4,1,12,Terca,11,1
+5,2024-04-07,24,2,Barolo Riserva,Tinto Seco,Italia,Piemonte,2015,1250.00,1,1250.00,Instagram,SC,Florianopolis,Recorrente,PIX,5,401,23,2,1,4,Domingo,11,0
+6,2024-06-08,22,5,Douro Reserva,Tinto Seco,Portugal,Douro,2018,310.00,2,620.00,Instagram,RS,Gramado,Recorrente,Cartao Credito,4,98,24,2,1,6,Sabado,8,1
+7,2025-01-12,13,4,Malbec Reserva,Tinto Seco,Argentina,Mendoza,2020,180.00,1,180.00,Site Vinheria,RS,Porto Alegre,Recorrente,Cartao Credito,4,332,2,3,0,1,Segunda,6,1
+8,2025-04-14,1,3,Chablis Premier Cru,Branco Seco,Franca,Borgonha,2019,420.00,2,840.00,Marketplace Parceiro,SP,Sao Paulo,Novo,PIX,4,477,0,4,1,4,Segunda,7,0
+9,2025-02-23,24,2,Barolo Riserva,Tinto Seco,Italia,Piemonte,2015,1250.00,2,2500.00,Marketplace Parceiro,SC,Florianopolis,Recorrente,PIX,5,401,23,2,1,2,Segunda,11,0
+10,2024-12-19,11,6,Rioja Gran Reserva,Tinto Seco,Espanha,Rioja,2014,560.00,2,1120.00,Site Vinheria,RJ,Rio de Janeiro,Premium,Boleto,5,518,19,3,1,12,Sexta,12,0
+11,2024-04-10,30,2,Barolo Riserva,Tinto Seco,Italia,Piemonte,2015,1250.00,1,1250.00,WhatsApp Giulio,MG,Uberlandia,Recorrente,PIX,5,847,4,2,1,4,Quarta,11,1
+12,2025-01-20,5,7,Sauvignon Blanc,Branco Seco,Nova Zelandia,Marlborough,2022,150.00,1,150.00,Instagram,PR,Curitiba,Novo,PIX,3,174,0,1,0,1,Terca,4,1
+13,2024-09-16,29,5,Douro Reserva,Tinto Seco,Portugal,Douro,2018,310.00,1,310.00,Marketplace Parceiro,RJ,Rio de Janeiro,Recorrente,Cartao Credito,4,13,17,2,0,9,Segunda,8,1
+14,2024-07-04,3,7,Sauvignon Blanc,Branco Seco,Nova Zelandia,Marlborough,2022,150.00,1,150.00,Evento Degustacao,MG,Belo Horizonte,Recorrente,Cartao Credito,3,482,7,0,0,7,Quinta,4,1
+15,2024-02-11,7,7,Sauvignon Blanc,Branco Seco,Nova Zelandia,Marlborough,2022,150.00,1,150.00,WhatsApp Giulio,DF,Brasilia,Premium,Cartao Credito,3,668,2,3,0,2,Segunda,4,1
+16,2024-08-30,21,2,Barolo Riserva,Tinto Seco,Italia,Piemonte,2015,1250.00,3,3750.00,Site Vinheria,MG,Belo Horizonte,Recorrente,PIX,5,347,6,3,1,8,Sexta,11,1
+17,2024-09-19,29,5,Douro Reserva,Tinto Seco,Portugal,Douro,2018,310.00,1,310.00,Instagram,RJ,Rio de Janeiro,Recorrente,Cartao Credito,4,13,17,2,0,9,Quinta,8,1
+18,2024-02-09,12,7,Sauvignon Blanc,Branco Seco,Nova Zelandia,Marlborough,2022,150.00,3,450.00,WhatsApp Giulio,MG,Uberlandia,Recorrente,Boleto,3,343,7,2,0,2,Sabado,4,0
+19,2025-03-28,8,5,Douro Reserva,Tinto Seco,Portugal,Douro,2018,310.00,1,310.00,Evento Degustacao,BA,Salvador,Novo,Cartao Credito,4,781,0,2,0,3,Sabado,8,1
+20,2024-01-26,27,8,Amarone della Valpolicella,Tinto Seco,Italia,Veneto,2017,780.00,1,780.00,Marketplace Parceiro,PE,Recife,Recorrente,Cartao Credito,5,314,8,2,1,1,Sabado,9,1
+21,2024-10-31,15,5,Douro Reserva,Tinto Seco,Portugal,Douro,2018,310.00,1,310.00,Evento Degustacao,SC,Florianopolis,Novo,Cartao Credito,4,63,0,5,0,11,Sexta,8,0
+22,2024-02-27,4,7,Sauvignon Blanc,Branco Seco,Nova Zelandia,Marlborough,2022,150.00,3,450.00,WhatsApp Giulio,RS,Gramado,Premium,Boleto,3,815,11,1,0,2,Quarta,4,1
+23,2025-02-15,30,8,Amarone della Valpolicella,Tinto Seco,Italia,Veneto,2017,780.00,1,780.00,Marketplace Parceiro,MG,Uberlandia,Recorrente,PIX,5,847,4,2,1,2,Domingo,9,1
+24,2025-01-19,10,1,Brunello di Montalcino,Tinto Seco,Italia,Toscana,2016,890.00,4,3560.00,Marketplace Parceiro,SP,Sao Paulo,Novo,Cartao Credito,5,899,0,5,1,1,Segunda,10,0
+25,2024-08-15,5,4,Malbec Reserva,Tinto Seco,Argentina,Mendoza,2020,180.00,1,180.00,Instagram,PR,Curitiba,Novo,PIX,4,174,0,1,0,8,Quinta,6,0
+26,2024-09-16,22,2,Barolo Riserva,Tinto Seco,Italia,Piemonte,2015,1250.00,1,1250.00,Evento Degustacao,RS,Gramado,Recorrente,Cartao Debito,5,98,24,2,1,9,Segunda,11,1
+27,2024-07-22,25,3,Chablis Premier Cru,Branco Seco,Franca,Borgonha,2019,420.00,1,420.00,Instagram,DF,Brasilia,Corporativo,Cartao Debito,4,293,20,5,0,7,Segunda,7,1
+28,2024-10-07,19,1,Brunello di Montalcino,Tinto Seco,Italia,Toscana,2016,890.00,2,1780.00,Site Vinheria,SP,Sao Paulo,Recorrente,Cartao Credito,5,677,5,4,1,10,Terca,10,1
+29,2024-12-26,12,8,Amarone della Valpolicella,Tinto Seco,Italia,Veneto,2017,780.00,1,780.00,Instagram,MG,Uberlandia,Recorrente,PIX,5,343,7,2,1,12,Sexta,9,1
+30,2024-04-01,16,1,Brunello di Montalcino,Tinto Seco,Italia,Toscana,2016,890.00,3,2670.00,Site Vinheria,DF,Brasilia,Recorrente,Cartao Credito,5,85,24,2,1,4,Terca,10,1
+31,2024-12-29,2,3,Chablis Premier Cru,Branco Seco,Franca,Borgonha,2019,420.00,2,840.00,Site Vinheria,RJ,Niteroi,Recorrente,PIX,4,343,5,5,1,12,Segunda,7,1
+32,2025-05-21,3,7,Sauvignon Blanc,Branco Seco,Nova Zelandia,Marlborough,2022,150.00,2,300.00,Evento Degustacao,MG,Belo Horizonte,Recorrente,Cartao Credito,3,482,7,0,0,5,Quarta,4,1
+33,2024-08-01,22,3,Chablis Premier Cru,Branco Seco,Franca,Borgonha,2019,420.00,2,840.00,Instagram,RS,Gramado,Recorrente,Cartao Debito,4,98,24,2,1,8,Quinta,7,1
+34,2024-09-22,19,3,Chablis Premier Cru,Branco Seco,Franca,Borgonha,2019,420.00,2,840.00,WhatsApp Giulio,SP,Sao Paulo,Recorrente,PIX,4,677,5,4,1,9,Domingo,7,1
+35,2024-06-20,22,7,Sauvignon Blanc,Branco Seco,Nova Zelandia,Marlborough,2022,150.00,3,450.00,WhatsApp Giulio,RS,Gramado,Recorrente,Cartao Credito,3,98,24,2,0,6,Quinta,4,1
+36,2024-09-28,14,7,Sauvignon Blanc,Branco Seco,Nova Zelandia,Marlborough,2022,150.00,4,600.00,Evento Degustacao,PR,Curitiba,Novo,Cartao Debito,3,413,0,1,1,9,Sabado,4,1
+37,2024-08-24,29,5,Douro Reserva,Tinto Seco,Portugal,Douro,2018,310.00,1,310.00,Instagram,RJ,Rio de Janeiro,Recorrente,Cartao Debito,4,13,17,2,0,8,Sabado,8,1
+38,2025-01-12,5,3,Chablis Premier Cru,Branco Seco,Franca,Borgonha,2019,420.00,4,1680.00,Evento Degustacao,PR,Curitiba,Novo,Cartao Debito,4,174,0,1,1,1,Segunda,7,1
+39,2024-12-10,14,5,Douro Reserva,Tinto Seco,Portugal,Douro,2018,310.00,2,620.00,Evento Degustacao,PR,Curitiba,Novo,PIX,4,413,0,1,1,12,Quarta,8,1
+40,2025-03-31,6,7,Sauvignon Blanc,Branco Seco,Nova Zelandia,Marlborough,2022,150.00,1,150.00,Marketplace Parceiro,SC,Florianopolis,Novo,Cartao Debito,3,731,0,3,0,4,Terca,4,1
+41,2025-03-13,10,3,Chablis Premier Cru,Branco Seco,Franca,Borgonha,2019,420.00,2,840.00,Marketplace Parceiro,SP,Sao Paulo,Novo,Cartao Debito,4,899,0,5,1,3,Sexta,7,1
+42,2024-11-20,2,2,Barolo Riserva,Tinto Seco,Italia,Piemonte,2015,1250.00,1,1250.00,Evento Degustacao,RJ,Niteroi,Recorrente,Cartao Debito,5,343,5,5,1,11,Quinta,11,1
+43,2024-07-11,9,5,Douro Reserva,Tinto Seco,Portugal,Douro,2018,310.00,3,930.00,Instagram,PE,Recife,Recorrente,PIX,4,410,6,0,1,7,Quinta,8,1
+44,2024-07-31,18,3,Chablis Premier Cru,Branco Seco,Franca,Borgonha,2019,420.00,1,420.00,Evento Degustacao,PE,Recife,Novo,Boleto,4,620,0,2,0,7,Quarta,7,0
+45,2024-06-18,4,1,Brunello di Montalcino,Tinto Seco,Italia,Toscana,2016,890.00,1,890.00,Evento Degustacao,RS,Gramado,Premium,Cartao Debito,5,815,11,1,1,6,Terca,10,1
+46,2024-08-07,1,2,Barolo Riserva,Tinto Seco,Italia,Piemonte,2015,1250.00,1,1250.00,Marketplace Parceiro,SP,Sao Paulo,Novo,Cartao Credito,5,477,0,4,1,8,Quarta,11,1
+47,2024-10-22,24,1,Brunello di Montalcino,Tinto Seco,Italia,Toscana,2016,890.00,4,3560.00,Marketplace Parceiro,SC,Florianopolis,Recorrente,PIX,5,401,23,2,1,10,Quarta,10,1
+48,2025-03-29,2,5,Douro Reserva,Tinto Seco,Portugal,Douro,2018,310.00,2,620.00,Site Vinheria,RJ,Niteroi,Recorrente,Cartao Credito,4,343,5,5,1,3,Domingo,8,1
+49,2024-02-17,23,7,Sauvignon Blanc,Branco Seco,Nova Zelandia,Marlborough,2022,150.00,2,300.00,Instagram,PR,Curitiba,Premium,PIX,3,243,16,5,0,2,Domingo,4,0
+50,2024-03-28,7,8,Amarone della Valpolicella,Tinto Seco,Italia,Veneto,2017,780.00,3,2340.00,Marketplace Parceiro,DF,Brasilia,Premium,Cartao Credito,5,668,2,3,1,3,Sexta,9,1
+51,2025-05-03,9,8,Amarone della Valpolicella,Tinto Seco,Italia,Veneto,2017,780.00,1,780.00,Site Vinheria,PE,Recife,Recorrente,Boleto,5,410,6,0,1,5,Sabado,9,0
+52,2024-04-09,25,7,Sauvignon Blanc,Branco Seco,Nova Zelandia,Marlborough,2022,150.00,6,900.00,Instagram,DF,Brasilia,Corporativo,PIX,3,293,20,5,1,4,Terca,4,1
+53,2025-03-29,14,7,Sauvignon Blanc,Branco Seco,Nova Zelandia,Marlborough,2022,150.00,3,450.00,Site Vinheria,PR,Curitiba,Novo,PIX,3,413,0,1,0,3,Domingo,4,1
+54,2024-03-06,12,7,Sauvignon Blanc,Branco Seco,Nova Zelandia,Marlborough,2022,150.00,1,150.00,WhatsApp Giulio,MG,Uberlandia,Recorrente,PIX,3,343,7,2,0,3,Quinta,4,1
+55,2024-10-03,30,4,Malbec Reserva,Tinto Seco,Argentina,Mendoza,2020,180.00,1,180.00,Evento Degustacao,MG,Uberlandia,Recorrente,Cartao Credito,4,847,4,2,0,10,Quinta,6,1
+56,2024-08-21,10,6,Rioja Gran Reserva,Tinto Seco,Espanha,Rioja,2014,560.00,1,560.00,Evento Degustacao,SP,Sao Paulo,Novo,Boleto,5,899,0,5,1,8,Quarta,12,0
+57,2025-02-18,13,8,Amarone della Valpolicella,Tinto Seco,Italia,Veneto,2017,780.00,1,780.00,Site Vinheria,RS,Porto Alegre,Recorrente,Cartao Debito,5,332,2,3,1,2,Quarta,9,1
+58,2025-04-22,26,3,Chablis Premier Cru,Branco Seco,Franca,Borgonha,2019,420.00,1,420.00,Evento Degustacao,BA,Salvador,Premium,Cartao Credito,4,506,20,3,0,4,Terca,7,1
+59,2025-01-20,26,3,Chablis Premier Cru,Branco Seco,Franca,Borgonha,2019,420.00,2,840.00,WhatsApp Giulio,BA,Salvador,Premium,Cartao Debito,4,506,20,3,1,1,Terca,7,1
+60,2024-11-21,2,6,Rioja Gran Reserva,Tinto Seco,Espanha,Rioja,2014,560.00,3,1680.00,Instagram,RJ,Niteroi,Recorrente,Cartao Debito,5,343,5,5,1,11,Sexta,12,1
+61,2024-04-23,20,4,Malbec Reserva,Tinto Seco,Argentina,Mendoza,2020,180.00,2,360.00,Marketplace Parceiro,RJ,Niteroi,Premium,Cartao Debito,4,92,1,0,0,4,Terca,6,1
+62,2025-02-18,22,6,Rioja Gran Reserva,Tinto Seco,Espanha,Rioja,2014,560.00,1,560.00,WhatsApp Giulio,RS,Gramado,Recorrente,PIX,5,98,24,2,1,2,Quarta,12,1
+63,2024-07-27,30,2,Barolo Riserva,Tinto Seco,Italia,Piemonte,2015,1250.00,2,2500.00,Site Vinheria,MG,Uberlandia,Recorrente,Cartao Debito,5,847,4,2,1,7,Sabado,11,1
+64,2025-03-24,9,4,Malbec Reserva,Tinto Seco,Argentina,Mendoza,2020,180.00,1,180.00,Site Vinheria,PE,Recife,Recorrente,Cartao Debito,4,410,6,0,0,3,Terca,6,1
+65,2024-02-27,15,6,Rioja Gran Reserva,Tinto Seco,Espanha,Rioja,2014,560.00,3,1680.00,WhatsApp Giulio,SC,Florianopolis,Novo,PIX,5,63,0,5,1,2,Quarta,12,0
+66,2024-02-19,5,1,Brunello di Montalcino,Tinto Seco,Italia,Toscana,2016,890.00,1,890.00,Marketplace Parceiro,PR,Curitiba,Novo,PIX,5,174,0,1,1,2,Terca,10,1
+67,2024-03-21,13,3,Chablis Premier Cru,Branco Seco,Franca,Borgonha,2019,420.00,3,1260.00,Evento Degustacao,RS,Porto Alegre,Recorrente,Cartao Credito,4,332,2,3,1,3,Sexta,7,1
+68,2024-08-13,28,7,Sauvignon Blanc,Branco Seco,Nova Zelandia,Marlborough,2022,150.00,3,450.00,Evento Degustacao,SP,Sao Paulo,Recorrente,Cartao Credito,3,592,2,2,0,8,Terca,4,0
+69,2024-08-03,6,4,Malbec Reserva,Tinto Seco,Argentina,Mendoza,2020,180.00,2,360.00,Instagram,SC,Florianopolis,Novo,Cartao Credito,4,731,0,3,0,8,Sabado,6,0
+70,2025-04-10,2,5,Douro Reserva,Tinto Seco,Portugal,Douro,2018,310.00,3,930.00,WhatsApp Giulio,RJ,Niteroi,Recorrente,Cartao Debito,4,343,5,5,1,4,Quinta,8,1
+71,2024-05-23,14,2,Barolo Riserva,Tinto Seco,Italia,Piemonte,2015,1250.00,2,2500.00,Site Vinheria,PR,Curitiba,Novo,Cartao Debito,5,413,0,1,1,5,Quinta,11,0
+72,2025-03-31,23,4,Malbec Reserva,Tinto Seco,Argentina,Mendoza,2020,180.00,2,360.00,Marketplace Parceiro,PR,Curitiba,Premium,Cartao Debito,4,243,16,5,0,4,Terca,6,0
+73,2024-02-05,13,7,Sauvignon Blanc,Branco Seco,Nova Zelandia,Marlborough,2022,150.00,1,150.00,Site Vinheria,RS,Porto Alegre,Recorrente,Cartao Debito,3,332,2,3,0,2,Terca,4,1
+74,2024-10-20,14,8,Amarone della Valpolicella,Tinto Seco,Italia,Veneto,2017,780.00,1,780.00,Marketplace Parceiro,PR,Curitiba,Novo,Cartao Credito,5,413,0,1,1,10,Segunda,9,0
+75,2024-11-14,23,5,Douro Reserva,Tinto Seco,Portugal,Douro,2018,310.00,1,310.00,WhatsApp Giulio,PR,Curitiba,Premium,Boleto,4,243,16,5,0,11,Sexta,8,0
+76,2024-12-08,14,1,Brunello di Montalcino,Tinto Seco,Italia,Toscana,2016,890.00,1,890.00,Marketplace Parceiro,PR,Curitiba,Novo,Boleto,5,413,0,1,1,12,Segunda,10,1
+77,2024-12-29,1,2,Barolo Riserva,Tinto Seco,Italia,Piemonte,2015,1250.00,2,2500.00,Evento Degustacao,SP,Sao Paulo,Novo,PIX,5,477,0,4,1,12,Segunda,11,1
+78,2025-02-11,16,6,Rioja Gran Reserva,Tinto Seco,Espanha,Rioja,2014,560.00,1,560.00,Site Vinheria,DF,Brasilia,Recorrente,Cartao Credito,5,85,24,2,1,2,Quarta,12,0
+79,2024-06-29,18,8,Amarone della Valpolicella,Tinto Seco,Italia,Veneto,2017,780.00,2,1560.00,Marketplace Parceiro,PE,Recife,Novo,PIX,5,620,0,2,1,6,Sabado,9,0
+80,2024-12-22,2,2,Barolo Riserva,Tinto Seco,Italia,Piemonte,2015,1250.00,2,2500.00,Marketplace Parceiro,RJ,Niteroi,Recorrente,Cartao Debito,5,343,5,5,1,12,Segunda,11,1
+81,2024-01-23,29,5,Douro Reserva,Tinto Seco,Portugal,Douro,2018,310.00,1,310.00,Site Vinheria,RJ,Rio de Janeiro,Recorrente,PIX,4,13,17,2,0,1,Quarta,8,0
+82,2024-05-18,8,7,Sauvignon Blanc,Branco Seco,Nova Zelandia,Marlborough,2022,150.00,3,450.00,Site Vinheria,BA,Salvador,Novo,PIX,3,781,0,2,0,5,Sabado,4,0
+83,2025-02-06,19,3,Chablis Premier Cru,Branco Seco,Franca,Borgonha,2019,420.00,1,420.00,Evento Degustacao,SP,Sao Paulo,Recorrente,Cartao Debito,4,677,5,4,0,2,Sexta,7,0
+84,2024-02-29,4,4,Malbec Reserva,Tinto Seco,Argentina,Mendoza,2020,180.00,1,180.00,Site Vinheria,RS,Gramado,Premium,PIX,4,815,11,1,0,3,Sexta,6,1
+85,2024-10-07,20,1,Brunello di Montalcino,Tinto Seco,Italia,Toscana,2016,890.00,3,2670.00,Evento Degustacao,RJ,Niteroi,Premium,PIX,5,92,1,0,1,10,Terca,10,1
+86,2024-09-03,3,6,Rioja Gran Reserva,Tinto Seco,Espanha,Rioja,2014,560.00,1,560.00,Marketplace Parceiro,MG,Belo Horizonte,Recorrente,PIX,5,482,7,0,1,9,Terca,12,1
+87,2024-12-12,9,5,Douro Reserva,Tinto Seco,Portugal,Douro,2018,310.00,1,310.00,Site Vinheria,PE,Recife,Recorrente,PIX,4,410,6,0,0,12,Sexta,8,1
+88,2024-03-12,13,5,Douro Reserva,Tinto Seco,Portugal,Douro,2018,310.00,1,310.00,Instagram,RS,Porto Alegre,Recorrente,PIX,4,332,2,3,0,3,Quarta,8,1
+89,2025-01-30,5,7,Sauvignon Blanc,Branco Seco,Nova Zelandia,Marlborough,2022,150.00,1,150.00,WhatsApp Giulio,PR,Curitiba,Novo,Cartao Credito,3,174,0,1,0,1,Sexta,4,0
+90,2025-04-01,9,4,Malbec Reserva,Tinto Seco,Argentina,Mendoza,2020,180.00,3,540.00,Site Vinheria,PE,Recife,Recorrente,Cartao Credito,4,410,6,0,1,4,Quarta,6,1
+91,2025-02-06,19,4,Malbec Reserva,Tinto Seco,Argentina,Mendoza,2020,180.00,1,180.00,Site Vinheria,SP,Sao Paulo,Recorrente,Cartao Debito,4,677,5,4,0,2,Sexta,6,1
+92,2025-01-05,11,2,Barolo Riserva,Tinto Seco,Italia,Piemonte,2015,1250.00,1,1250.00,Site Vinheria,RJ,Rio de Janeiro,Premium,Cartao Credito,5,518,19,3,1,1,Segunda,11,1
+93,2024-10-02,9,2,Barolo Riserva,Tinto Seco,Italia,Piemonte,2015,1250.00,1,1250.00,Instagram,PE,Recife,Recorrente,Cartao Credito,5,410,6,0,1,10,Quarta,11,1
+94,2024-05-01,6,5,Douro Reserva,Tinto Seco,Portugal,Douro,2018,310.00,1,310.00,Marketplace Parceiro,SC,Florianopolis,Novo,Cartao Credito,4,731,0,3,0,5,Quarta,8,0
+95,2025-04-19,11,1,Brunello di Montalcino,Tinto Seco,Italia,Toscana,2016,890.00,1,890.00,Marketplace Parceiro,RJ,Rio de Janeiro,Premium,Cartao Credito,5,518,19,3,1,4,Sabado,10,1
+96,2024-08-13,20,4,Malbec Reserva,Tinto Seco,Argentina,Mendoza,2020,180.00,3,540.00,Evento Degustacao,RJ,Niteroi,Premium,Cartao Debito,4,92,1,0,1,8,Terca,6,1
+97,2024-07-09,20,8,Amarone della Valpolicella,Tinto Seco,Italia,Veneto,2017,780.00,1,780.00,Instagram,RJ,Niteroi,Premium,Cartao Debito,5,92,1,0,1,7,Terca,9,0
+98,2024-07-02,16,2,Barolo Riserva,Tinto Seco,Italia,Piemonte,2015,1250.00,2,2500.00,Marketplace Parceiro,DF,Brasilia,Recorrente,Cartao Credito,5,85,24,2,1,7,Terca,11,1
+99,2024-11-30,2,3,Chablis Premier Cru,Branco Seco,Franca,Borgonha,2019,420.00,2,840.00,Site Vinheria,RJ,Niteroi,Recorrente,Boleto,4,343,5,5,1,12,Domingo,7,1
+100,2024-11-29,20,3,Chablis Premier Cru,Branco Seco,Franca,Borgonha,2019,420.00,1,420.00,WhatsApp Giulio,RJ,Niteroi,Premium,PIX,4,92,1,0,0,11,Sabado,7,1
+101,2024-04-20,14,8,Amarone della Valpolicella,Tinto Seco,Italia,Veneto,2017,780.00,1,780.00,Instagram,PR,Curitiba,Novo,Boleto,5,413,0,1,1,4,Sabado,9,0
+102,2025-01-29,2,7,Sauvignon Blanc,Branco Seco,Nova Zelandia,Marlborough,2022,150.00,4,600.00,Evento Degustacao,RJ,Niteroi,Recorrente,PIX,3,343,5,5,1,1,Quinta,4,1
+103,2024-06-18,2,3,Chablis Premier Cru,Branco Seco,Franca,Borgonha,2019,420.00,2,840.00,Marketplace Parceiro,RJ,Niteroi,Recorrente,PIX,4,343,5,5,1,6,Terca,7,1
+104,2024-02-18,20,8,Amarone della Valpolicella,Tinto Seco,Italia,Veneto,2017,780.00,1,780.00,Marketplace Parceiro,RJ,Niteroi,Premium,Cartao Debito,5,92,1,0,1,2,Segunda,9,0
+105,2025-05-26,4,2,Barolo Riserva,Tinto Seco,Italia,Piemonte,2015,1250.00,1,1250.00,Evento Degustacao,RS,Gramado,Premium,PIX,5,815,11,1,1,5,Segunda,11,1
+106,2024-02-26,30,4,Malbec Reserva,Tinto Seco,Argentina,Mendoza,2020,180.00,2,360.00,Instagram,MG,Uberlandia,Recorrente,PIX,4,847,4,2,0,2,Terca,6,1
+107,2025-05-20,1,1,Brunello di Montalcino,Tinto Seco,Italia,Toscana,2016,890.00,4,3560.00,Marketplace Parceiro,SP,Sao Paulo,Novo,PIX,5,477,0,4,1,5,Terca,10,1
+108,2025-03-11,6,5,Douro Reserva,Tinto Seco,Portugal,Douro,2018,310.00,1,310.00,Instagram,SC,Florianopolis,Novo,Cartao Credito,4,731,0,3,0,3,Quarta,8,1
+109,2024-05-15,1,4,Malbec Reserva,Tinto Seco,Argentina,Mendoza,2020,180.00,1,180.00,WhatsApp Giulio,SP,Sao Paulo,Novo,PIX,4,477,0,4,0,5,Quarta,6,1
+110,2024-02-11,6,4,Malbec Reserva,Tinto Seco,Argentina,Mendoza,2020,180.00,2,360.00,WhatsApp Giulio,SC,Florianopolis,Novo,PIX,4,731,0,3,0,2,Segunda,6,1
+111,2025-04-15,2,2,Barolo Riserva,Tinto Seco,Italia,Piemonte,2015,1250.00,1,1250.00,Instagram,RJ,Niteroi,Recorrente,Cartao Debito,5,343,5,5,1,4,Terca,11,1
+112,2025-03-09,13,3,Chablis Premier Cru,Branco Seco,Franca,Borgonha,2019,420.00,2,840.00,Site Vinheria,RS,Porto Alegre,Recorrente,Cartao Credito,4,332,2,3,1,3,Segunda,7,1
+113,2024-02-03,3,5,Douro Reserva,Tinto Seco,Portugal,Douro,2018,310.00,3,930.00,Instagram,MG,Belo Horizonte,Recorrente,PIX,4,482,7,0,1,2,Domingo,8,1
+114,2024-02-09,3,2,Barolo Riserva,Tinto Seco,Italia,Piemonte,2015,1250.00,1,1250.00,Instagram,MG,Belo Horizonte,Recorrente,Boleto,5,482,7,0,1,2,Sabado,11,1
+115,2024-02-29,8,6,Rioja Gran Reserva,Tinto Seco,Espanha,Rioja,2014,560.00,1,560.00,WhatsApp Giulio,BA,Salvador,Novo,Cartao Debito,5,781,0,2,1,3,Sexta,12,1
+116,2025-03-02,1,2,Barolo Riserva,Tinto Seco,Italia,Piemonte,2015,1250.00,2,2500.00,Instagram,SP,Sao Paulo,Novo,PIX,5,477,0,4,1,3,Segunda,11,1
+117,2024-03-15,23,8,Amarone della Valpolicella,Tinto Seco,Italia,Veneto,2017,780.00,1,780.00,WhatsApp Giulio,PR,Curitiba,Premium,Cartao Credito,5,243,16,5,1,3,Sabado,9,1
+118,2024-10-05,14,5,Douro Reserva,Tinto Seco,Portugal,Douro,2018,310.00,1,310.00,Evento Degustacao,PR,Curitiba,Novo,Cartao Credito,4,413,0,1,0,10,Sabado,8,0
+119,2025-01-21,4,1,Brunello di Montalcino,Tinto Seco,Italia,Toscana,2016,890.00,2,1780.00,Marketplace Parceiro,RS,Gramado,Premium,Cartao Debito,5,815,11,1,1,1,Quarta,10,1
+120,2024-09-19,10,5,Douro Reserva,Tinto Seco,Portugal,Douro,2018,310.00,1,310.00,Evento Degustacao,SP,Sao Paulo,Novo,PIX,4,899,0,5,0,9,Quinta,8,1
+121,2024-01-28,12,6,Rioja Gran Reserva,Tinto Seco,Espanha,Rioja,2014,560.00,1,560.00,Evento Degustacao,MG,Uberlandia,Recorrente,PIX,5,343,7,2,1,1,Segunda,12,1
+122,2024-08-07,9,5,Douro Reserva,Tinto Seco,Portugal,Douro,2018,310.00,1,310.00,Site Vinheria,PE,Recife,Recorrente,Boleto,4,410,6,0,0,8,Quarta,8,1
+123,2025-05-12,8,7,Sauvignon Blanc,Branco Seco,Nova Zelandia,Marlborough,2022,150.00,2,300.00,Evento Degustacao,BA,Salvador,Novo,PIX,3,781,0,2,0,5,Segunda,4,0
+124,2024-12-18,7,7,Sauvignon Blanc,Branco Seco,Nova Zelandia,Marlborough,2022,150.00,1,150.00,Evento Degustacao,DF,Brasilia,Premium,PIX,3,668,2,3,0,12,Quinta,4,1
+125,2024-10-29,21,4,Malbec Reserva,Tinto Seco,Argentina,Mendoza,2020,180.00,3,540.00,WhatsApp Giulio,MG,Belo Horizonte,Recorrente,Cartao Credito,4,347,6,3,1,10,Quarta,6,1
+126,2024-08-14,19,8,Amarone della Valpolicella,Tinto Seco,Italia,Veneto,2017,780.00,4,3120.00,Site Vinheria,SP,Sao Paulo,Recorrente,Cartao Credito,5,677,5,4,1,8,Quarta,9,0
+127,2024-04-30,3,5,Douro Reserva,Tinto Seco,Portugal,Douro,2018,310.00,1,310.00,Marketplace Parceiro,MG,Belo Horizonte,Recorrente,PIX,4,482,7,0,0,4,Terca,8,1
+128,2025-03-11,2,3,Chablis Premier Cru,Branco Seco,Franca,Borgonha,2019,420.00,1,420.00,Instagram,RJ,Niteroi,Recorrente,PIX,4,343,5,5,0,3,Quarta,7,1
+129,2024-11-05,10,2,Barolo Riserva,Tinto Seco,Italia,Piemonte,2015,1250.00,1,1250.00,WhatsApp Giulio,SP,Sao Paulo,Novo,PIX,5,899,0,5,1,11,Quarta,11,1
+130,2024-03-15,26,1,Brunello di Montalcino,Tinto Seco,Italia,Toscana,2016,890.00,1,890.00,Site Vinheria,BA,Salvador,Premium,Cartao Credito,5,506,20,3,1,3,Sabado,10,1
+131,2024-09-29,23,8,Amarone della Valpolicella,Tinto Seco,Italia,Veneto,2017,780.00,2,1560.00,Instagram,PR,Curitiba,Premium,Cartao Debito,5,243,16,5,1,9,Domingo,9,1
+132,2024-12-19,23,5,Douro Reserva,Tinto Seco,Portugal,Douro,2018,310.00,1,310.00,Evento Degustacao,PR,Curitiba,Premium,Boleto,4,243,16,5,0,12,Sexta,8,0
+133,2024-05-17,12,1,Brunello di Montalcino,Tinto Seco,Italia,Toscana,2016,890.00,1,890.00,Evento Degustacao,MG,Uberlandia,Recorrente,Boleto,5,343,7,2,1,5,Sexta,10,0
+134,2024-02-01,16,2,Barolo Riserva,Tinto Seco,Italia,Piemonte,2015,1250.00,1,1250.00,Instagram,DF,Brasilia,Recorrente,Cartao Debito,5,85,24,2,1,2,Sexta,11,1
+135,2025-03-20,11,4,Malbec Reserva,Tinto Seco,Argentina,Mendoza,2020,180.00,1,180.00,Instagram,RJ,Rio de Janeiro,Premium,PIX,4,518,19,3,0,3,Sexta,6,1
+136,2024-11-26,10,8,Amarone della Valpolicella,Tinto Seco,Italia,Veneto,2017,780.00,1,780.00,WhatsApp Giulio,SP,Sao Paulo,Novo,Cartao Debito,5,899,0,5,1,11,Quarta,9,1
+137,2024-02-29,17,2,Barolo Riserva,Tinto Seco,Italia,Piemonte,2015,1250.00,1,1250.00,Marketplace Parceiro,BA,Salvador,Premium,Boleto,5,173,14,5,1,3,Sexta,11,1
+138,2024-11-03,8,4,Malbec Reserva,Tinto Seco,Argentina,Mendoza,2020,180.00,4,720.00,Site Vinheria,BA,Salvador,Novo,PIX,4,781,0,2,1,11,Segunda,6,1
+139,2024-04-03,14,6,Rioja Gran Reserva,Tinto Seco,Espanha,Rioja,2014,560.00,4,2240.00,Marketplace Parceiro,PR,Curitiba,Novo,Cartao Credito,5,413,0,1,1,4,Quinta,12,0
+140,2024-05-26,7,8,Amarone della Valpolicella,Tinto Seco,Italia,Veneto,2017,780.00,1,780.00,Evento Degustacao,DF,Brasilia,Premium,Cartao Debito,5,668,2,3,1,5,Domingo,9,1
+141,2024-07-10,12,2,Barolo Riserva,Tinto Seco,Italia,Piemonte,2015,1250.00,1,1250.00,Instagram,MG,Uberlandia,Recorrente,PIX,5,343,7,2,1,7,Quarta,11,1
+142,2024-03-11,12,1,Brunello di Montalcino,Tinto Seco,Italia,Toscana,2016,890.00,1,890.00,Marketplace Parceiro,MG,Uberlandia,Recorrente,Cartao Debito,5,343,7,2,1,3,Terca,10,1
+143,2025-04-14,13,1,Brunello di Montalcino,Tinto Seco,Italia,Toscana,2016,890.00,4,3560.00,Site Vinheria,RS,Porto Alegre,Recorrente,Cartao Credito,5,332,2,3,1,4,Segunda,10,0
+144,2024-08-27,15,8,Amarone della Valpolicella,Tinto Seco,Italia,Veneto,2017,780.00,1,780.00,Site Vinheria,SC,Florianopolis,Novo,Cartao Credito,5,63,0,5,1,8,Terca,9,1
+145,2025-05-21,8,3,Chablis Premier Cru,Branco Seco,Franca,Borgonha,2019,420.00,3,1260.00,Marketplace Parceiro,BA,Salvador,Novo,Boleto,4,781,0,2,1,5,Quarta,7,0
+146,2024-03-18,30,1,Brunello di Montalcino,Tinto Seco,Italia,Toscana,2016,890.00,3,2670.00,Marketplace Parceiro,MG,Uberlandia,Recorrente,PIX,5,847,4,2,1,3,Terca,10,1
+147,2025-02-22,24,2,Barolo Riserva,Tinto Seco,Italia,Piemonte,2015,1250.00,1,1250.00,WhatsApp Giulio,SC,Florianopolis,Recorrente,Cartao Debito,5,401,23,2,1,2,Domingo,11,1
+148,2025-01-21,15,5,Douro Reserva,Tinto Seco,Portugal,Douro,2018,310.00,1,310.00,Marketplace Parceiro,SC,Florianopolis,Novo,PIX,4,63,0,5,0,1,Quarta,8,1
+149,2024-08-22,30,5,Douro Reserva,Tinto Seco,Portugal,Douro,2018,310.00,2,620.00,Marketplace Parceiro,MG,Uberlandia,Recorrente,Boleto,4,847,4,2,1,8,Quinta,8,1
+150,2024-11-13,18,2,Barolo Riserva,Tinto Seco,Italia,Piemonte,2015,1250.00,3,3750.00,Site Vinheria,PE,Recife,Novo,Cartao Credito,5,620,0,2,1,11,Quinta,11,1
+151,2024-12-11,22,3,Chablis Premier Cru,Branco Seco,Franca,Borgonha,2019,420.00,6,2520.00,Evento Degustacao,RS,Gramado,Recorrente,PIX,4,98,24,2,1,12,Quinta,7,1
+152,2024-10-31,19,3,Chablis Premier Cru,Branco Seco,Franca,Borgonha,2019,420.00,1,420.00,Evento Degustacao,SP,Sao Paulo,Recorrente,Cartao Credito,4,677,5,4,0,11,Sexta,7,1
+153,2024-11-08,27,2,Barolo Riserva,Tinto Seco,Italia,Piemonte,2015,1250.00,2,2500.00,Evento Degustacao,PE,Recife,Recorrente,PIX,5,314,8,2,1,11,Sabado,11,0
+154,2024-08-29,9,5,Douro Reserva,Tinto Seco,Portugal,Douro,2018,310.00,2,620.00,Instagram,PE,Recife,Recorrente,Boleto,4,410,6,0,1,8,Quinta,8,0
+155,2024-02-06,9,6,Rioja Gran Reserva,Tinto Seco,Espanha,Rioja,2014,560.00,1,560.00,WhatsApp Giulio,PE,Recife,Recorrente,Boleto,5,410,6,0,1,2,Quarta,12,0
+156,2024-12-03,20,8,Amarone della Valpolicella,Tinto Seco,Italia,Veneto,2017,780.00,2,1560.00,Marketplace Parceiro,RJ,Niteroi,Premium,Cartao Debito,5,92,1,0,1,12,Quarta,9,1
+157,2024-03-12,24,2,Barolo Riserva,Tinto Seco,Italia,Piemonte,2015,1250.00,2,2500.00,WhatsApp Giulio,SC,Florianopolis,Recorrente,PIX,5,401,23,2,1,3,Quarta,11,1
+158,2024-02-04,11,5,Douro Reserva,Tinto Seco,Portugal,Douro,2018,310.00,4,1240.00,Site Vinheria,RJ,Rio de Janeiro,Premium,Cartao Credito,4,518,19,3,1,2,Segunda,8,1
+159,2025-02-21,4,7,Sauvignon Blanc,Branco Seco,Nova Zelandia,Marlborough,2022,150.00,1,150.00,Site Vinheria,RS,Gramado,Premium,Cartao Credito,3,815,11,1,0,2,Sabado,4,1
+160,2024-07-03,6,8,Amarone della Valpolicella,Tinto Seco,Italia,Veneto,2017,780.00,2,1560.00,Site Vinheria,SC,Florianopolis,Novo,Cartao Debito,5,731,0,3,1,7,Quarta,9,1
+161,2024-02-29,29,2,Barolo Riserva,Tinto Seco,Italia,Piemonte,2015,1250.00,1,1250.00,Marketplace Parceiro,RJ,Rio de Janeiro,Recorrente,PIX,5,13,17,2,1,3,Sexta,11,1
+162,2025-03-20,22,8,Amarone della Valpolicella,Tinto Seco,Italia,Veneto,2017,780.00,2,1560.00,Site Vinheria,RS,Gramado,Recorrente,Cartao Debito,5,98,24,2,1,3,Sexta,9,1
+163,2024-05-07,19,7,Sauvignon Blanc,Branco Seco,Nova Zelandia,Marlborough,2022,150.00,1,150.00,WhatsApp Giulio,SP,Sao Paulo,Recorrente,PIX,3,677,5,4,0,5,Terca,4,1
+164,2024-04-01,18,3,Chablis Premier Cru,Branco Seco,Franca,Borgonha,2019,420.00,1,420.00,Evento Degustacao,PE,Recife,Novo,Cartao Debito,4,620,0,2,0,4,Terca,7,1
+165,2024-12-11,9,7,Sauvignon Blanc,Branco Seco,Nova Zelandia,Marlborough,2022,150.00,4,600.00,Instagram,PE,Recife,Recorrente,PIX,3,410,6,0,1,12,Quinta,4,1
+166,2024-10-22,26,1,Brunello di Montalcino,Tinto Seco,Italia,Toscana,2016,890.00,2,1780.00,Evento Degustacao,BA,Salvador,Premium,Boleto,5,506,20,3,1,10,Quarta,10,0
+167,2024-04-17,13,7,Sauvignon Blanc,Branco Seco,Nova Zelandia,Marlborough,2022,150.00,1,150.00,Evento Degustacao,RS,Porto Alegre,Recorrente,Boleto,3,332,2,3,0,4,Quarta,4,1
+168,2024-03-26,10,7,Sauvignon Blanc,Branco Seco,Nova Zelandia,Marlborough,2022,150.00,1,150.00,WhatsApp Giulio,SP,Sao Paulo,Novo,PIX,3,899,0,5,0,3,Quarta,4,1
+169,2024-01-19,30,3,Chablis Premier Cru,Branco Seco,Franca,Borgonha,2019,420.00,1,420.00,WhatsApp Giulio,MG,Uberlandia,Recorrente,Cartao Credito,4,847,4,2,0,1,Sabado,7,1
+170,2024-01-30,17,7,Sauvignon Blanc,Branco Seco,Nova Zelandia,Marlborough,2022,150.00,2,300.00,Instagram,BA,Salvador,Premium,PIX,3,173,14,5,0,1,Quarta,4,1
+171,2024-03-30,23,3,Chablis Premier Cru,Branco Seco,Franca,Borgonha,2019,420.00,2,840.00,Site Vinheria,PR,Curitiba,Premium,Cartao Credito,4,243,16,5,1,3,Domingo,7,1
+172,2024-08-29,13,8,Amarone della Valpolicella,Tinto Seco,Italia,Veneto,2017,780.00,4,3120.00,Evento Degustacao,RS,Porto Alegre,Recorrente,PIX,5,332,2,3,1,8,Quinta,9,1
+173,2024-10-28,7,7,Sauvignon Blanc,Branco Seco,Nova Zelandia,Marlborough,2022,150.00,2,300.00,Site Vinheria,DF,Brasilia,Premium,Cartao Credito,3,668,2,3,0,10,Terca,4,1
+174,2024-09-17,17,5,Douro Reserva,Tinto Seco,Portugal,Douro,2018,310.00,2,620.00,Site Vinheria,BA,Salvador,Premium,PIX,4,173,14,5,1,9,Terca,8,0
+175,2024-09-07,11,1,Brunello di Montalcino,Tinto Seco,Italia,Toscana,2016,890.00,1,890.00,Marketplace Parceiro,RJ,Rio de Janeiro,Premium,Cartao Credito,5,518,19,3,1,9,Sabado,10,1
+176,2024-10-25,29,1,Brunello di Montalcino,Tinto Seco,Italia,Toscana,2016,890.00,1,890.00,Marketplace Parceiro,RJ,Rio de Janeiro,Recorrente,Cartao Debito,5,13,17,2,1,10,Sabado,10,1
+177,2024-12-11,23,7,Sauvignon Blanc,Branco Seco,Nova Zelandia,Marlborough,2022,150.00,3,450.00,Evento Degustacao,PR,Curitiba,Premium,Cartao Debito,3,243,16,5,0,12,Quinta,4,1
+178,2025-03-26,13,1,Brunello di Montalcino,Tinto Seco,Italia,Toscana,2016,890.00,1,890.00,Marketplace Parceiro,RS,Porto Alegre,Recorrente,Cartao Debito,5,332,2,3,1,3,Quinta,10,1
+179,2024-10-21,22,3,Chablis Premier Cru,Branco Seco,Franca,Borgonha,2019,420.00,3,1260.00,WhatsApp Giulio,RS,Gramado,Recorrente,Cartao Credito,4,98,24,2,1,10,Terca,7,1
+180,2025-04-23,20,7,Sauvignon Blanc,Branco Seco,Nova Zelandia,Marlborough,2022,150.00,2,300.00,Instagram,RJ,Niteroi,Premium,Cartao Credito,3,92,1,0,0,4,Quarta,4,1
+181,2024-07-03,29,6,Rioja Gran Reserva,Tinto Seco,Espanha,Rioja,2014,560.00,2,1120.00,Instagram,RJ,Rio de Janeiro,Recorrente,PIX,5,13,17,2,1,7,Quarta,12,0
+182,2025-03-29,15,6,Rioja Gran Reserva,Tinto Seco,Espanha,Rioja,2014,560.00,2,1120.00,Site Vinheria,SC,Florianopolis,Novo,Cartao Credito,5,63,0,5,1,3,Domingo,12,1
+183,2025-03-26,7,5,Douro Reserva,Tinto Seco,Portugal,Douro,2018,310.00,6,1860.00,WhatsApp Giulio,DF,Brasilia,Premium,Boleto,4,668,2,3,1,3,Quinta,8,1
+184,2025-02-13,21,7,Sauvignon Blanc,Branco Seco,Nova Zelandia,Marlborough,2022,150.00,3,450.00,Site Vinheria,MG,Belo Horizonte,Recorrente,Boleto,3,347,6,3,0,2,Sexta,4,1
+185,2024-03-01,27,7,Sauvignon Blanc,Branco Seco,Nova Zelandia,Marlborough,2022,150.00,2,300.00,Instagram,PE,Recife,Recorrente,Boleto,3,314,8,2,0,3,Sabado,4,1
+186,2024-06-15,11,2,Barolo Riserva,Tinto Seco,Italia,Piemonte,2015,1250.00,3,3750.00,Instagram,RJ,Rio de Janeiro,Premium,PIX,5,518,19,3,1,6,Sabado,11,1
+187,2024-04-03,6,1,Brunello di Montalcino,Tinto Seco,Italia,Toscana,2016,890.00,3,2670.00,Marketplace Parceiro,SC,Florianopolis,Novo,Cartao Debito,5,731,0,3,1,4,Quinta,10,1
+188,2024-10-31,15,3,Chablis Premier Cru,Branco Seco,Franca,Borgonha,2019,420.00,1,420.00,Evento Degustacao,SC,Florianopolis,Novo,PIX,4,63,0,5,0,11,Sexta,7,1
+189,2024-07-24,15,8,Amarone della Valpolicella,Tinto Seco,Italia,Veneto,2017,780.00,2,1560.00,Instagram,SC,Florianopolis,Novo,Cartao Debito,5,63,0,5,1,7,Quarta,9,0
+190,2025-05-01,2,7,Sauvignon Blanc,Branco Seco,Nova Zelandia,Marlborough,2022,150.00,2,300.00,Evento Degustacao,RJ,Niteroi,Recorrente,PIX,3,343,5,5,0,5,Quinta,4,1
+191,2024-05-23,6,5,Douro Reserva,Tinto Seco,Portugal,Douro,2018,310.00,1,310.00,Site Vinheria,SC,Florianopolis,Novo,PIX,4,731,0,3,0,5,Quinta,8,1
+192,2024-04-25,7,3,Chablis Premier Cru,Branco Seco,Franca,Borgonha,2019,420.00,6,2520.00,WhatsApp Giulio,DF,Brasilia,Premium,PIX,4,668,2,3,1,4,Quinta,7,1
+193,2024-05-14,15,1,Brunello di Montalcino,Tinto Seco,Italia,Toscana,2016,890.00,3,2670.00,Marketplace Parceiro,SC,Florianopolis,Novo,Cartao Credito,5,63,0,5,1,5,Terca,10,1
+194,2024-02-28,30,7,Sauvignon Blanc,Branco Seco,Nova Zelandia,Marlborough,2022,150.00,2,300.00,Evento Degustacao,MG,Uberlandia,Recorrente,PIX,3,847,4,2,0,2,Quinta,4,1
+195,2025-01-26,13,5,Douro Reserva,Tinto Seco,Portugal,Douro,2018,310.00,3,930.00,Evento Degustacao,RS,Porto Alegre,Recorrente,PIX,4,332,2,3,1,1,Segunda,8,1
+196,2024-03-14,4,1,Brunello di Montalcino,Tinto Seco,Italia,Toscana,2016,890.00,3,2670.00,Marketplace Parceiro,RS,Gramado,Premium,Boleto,5,815,11,1,1,3,Sexta,10,0
+197,2024-09-08,24,7,Sauvignon Blanc,Branco Seco,Nova Zelandia,Marlborough,2022,150.00,1,150.00,Evento Degustacao,SC,Florianopolis,Recorrente,PIX,3,401,23,2,0,9,Domingo,4,1
+198,2024-06-16,4,4,Malbec Reserva,Tinto Seco,Argentina,Mendoza,2020,180.00,3,540.00,Site Vinheria,RS,Gramado,Premium,Boleto,4,815,11,1,1,6,Domingo,6,1
+199,2025-03-29,22,4,Malbec Reserva,Tinto Seco,Argentina,Mendoza,2020,180.00,3,540.00,Marketplace Parceiro,RS,Gramado,Recorrente,PIX,4,98,24,2,1,3,Domingo,6,1
+200,2024-02-20,16,8,Amarone della Valpolicella,Tinto Seco,Italia,Veneto,2017,780.00,4,3120.00,WhatsApp Giulio,DF,Brasilia,Recorrente,PIX,5,85,24,2,1,2,Quarta,9,1
+201,2024-12-09,26,6,Rioja Gran Reserva,Tinto Seco,Espanha,Rioja,2014,560.00,1,560.00,WhatsApp Giulio,BA,Salvador,Premium,Cartao Credito,5,506,20,3,1,12,Terca,12,1
+202,2024-12-13,3,7,Sauvignon Blanc,Branco Seco,Nova Zelandia,Marlborough,2022,150.00,1,150.00,Site Vinheria,MG,Belo Horizonte,Recorrente,Cartao Credito,3,482,7,0,0,12,Sabado,4,0
+203,2024-05-21,12,8,Amarone della Valpolicella,Tinto Seco,Italia,Veneto,2017,780.00,3,2340.00,Marketplace Parceiro,MG,Uberlandia,Recorrente,Cartao Credito,5,343,7,2,1,5,Terca,9,1
+204,2024-02-11,21,4,Malbec Reserva,Tinto Seco,Argentina,Mendoza,2020,180.00,1,180.00,Site Vinheria,MG,Belo Horizonte,Recorrente,Boleto,4,347,6,3,0,2,Segunda,6,1
+205,2025-04-11,5,4,Malbec Reserva,Tinto Seco,Argentina,Mendoza,2020,180.00,3,540.00,Marketplace Parceiro,PR,Curitiba,Novo,Boleto,4,174,0,1,1,4,Sexta,6,0
+206,2024-12-07,28,8,Amarone della Valpolicella,Tinto Seco,Italia,Veneto,2017,780.00,3,2340.00,Instagram,SP,Sao Paulo,Recorrente,Cartao Credito,5,592,2,2,1,12,Domingo,9,1
+207,2024-05-23,1,8,Amarone della Valpolicella,Tinto Seco,Italia,Veneto,2017,780.00,1,780.00,Evento Degustacao,SP,Sao Paulo,Novo,PIX,5,477,0,4,1,5,Quinta,9,1
+208,2025-03-14,4,6,Rioja Gran Reserva,Tinto Seco,Espanha,Rioja,2014,560.00,1,560.00,Marketplace Parceiro,RS,Gramado,Premium,Cartao Credito,5,815,11,1,1,3,Sabado,12,1
+209,2024-07-11,10,8,Amarone della Valpolicella,Tinto Seco,Italia,Veneto,2017,780.00,4,3120.00,WhatsApp Giulio,SP,Sao Paulo,Novo,PIX,5,899,0,5,1,7,Quinta,9,0
+210,2024-12-05,24,6,Rioja Gran Reserva,Tinto Seco,Espanha,Rioja,2014,560.00,1,560.00,Site Vinheria,SC,Florianopolis,Recorrente,Cartao Credito,5,401,23,2,1,12,Sexta,12,1
+211,2024-03-08,17,6,Rioja Gran Reserva,Tinto Seco,Espanha,Rioja,2014,560.00,1,560.00,Site Vinheria,BA,Salvador,Premium,Cartao Debito,5,173,14,5,1,3,Sabado,12,1
+212,2024-12-16,24,3,Chablis Premier Cru,Branco Seco,Franca,Borgonha,2019,420.00,6,2520.00,WhatsApp Giulio,SC,Florianopolis,Recorrente,Boleto,4,401,23,2,1,12,Terca,7,0
+213,2024-05-20,9,2,Barolo Riserva,Tinto Seco,Italia,Piemonte,2015,1250.00,1,1250.00,Instagram,PE,Recife,Recorrente,Boleto,5,410,6,0,1,5,Segunda,11,1
+214,2024-12-07,24,1,Brunello di Montalcino,Tinto Seco,Italia,Toscana,2016,890.00,4,3560.00,Site Vinheria,SC,Florianopolis,Recorrente,Cartao Debito,5,401,23,2,1,12,Domingo,10,1
+215,2024-01-24,27,8,Amarone della Valpolicella,Tinto Seco,Italia,Veneto,2017,780.00,2,1560.00,Marketplace Parceiro,PE,Recife,Recorrente,PIX,5,314,8,2,1,1,Quinta,9,1
+216,2025-01-11,1,8,Amarone della Valpolicella,Tinto Seco,Italia,Veneto,2017,780.00,1,780.00,Evento Degustacao,SP,Sao Paulo,Novo,Cartao Debito,5,477,0,4,1,1,Domingo,9,1
+217,2024-09-17,10,7,Sauvignon Blanc,Branco Seco,Nova Zelandia,Marlborough,2022,150.00,1,150.00,Instagram,SP,Sao Paulo,Novo,PIX,3,899,0,5,0,9,Terca,4,0
+218,2025-04-14,24,1,Brunello di Montalcino,Tinto Seco,Italia,Toscana,2016,890.00,2,1780.00,Evento Degustacao,SC,Florianopolis,Recorrente,Cartao Credito,5,401,23,2,1,4,Segunda,10,1
+219,2024-05-02,21,8,Amarone della Valpolicella,Tinto Seco,Italia,Veneto,2017,780.00,4,3120.00,Instagram,MG,Belo Horizonte,Recorrente,Boleto,5,347,6,3,1,5,Quinta,9,0
+220,2025-04-03,14,4,Malbec Reserva,Tinto Seco,Argentina,Mendoza,2020,180.00,1,180.00,Evento Degustacao,PR,Curitiba,Novo,Cartao Debito,4,413,0,1,0,4,Sexta,6,1
+221,2024-09-11,12,1,Brunello di Montalcino,Tinto Seco,Italia,Toscana,2016,890.00,1,890.00,Site Vinheria,MG,Uberlandia,Recorrente,Cartao Credito,5,343,7,2,1,9,Quarta,10,1
+222,2024-06-23,11,7,Sauvignon Blanc,Branco Seco,Nova Zelandia,Marlborough,2022,150.00,1,150.00,Instagram,RJ,Rio de Janeiro,Premium,Boleto,3,518,19,3,0,6,Domingo,4,0
+223,2025-05-02,9,3,Chablis Premier Cru,Branco Seco,Franca,Borgonha,2019,420.00,4,1680.00,Marketplace Parceiro,PE,Recife,Recorrente,Cartao Debito,4,410,6,0,1,5,Sexta,7,1
+224,2025-01-16,2,4,Malbec Reserva,Tinto Seco,Argentina,Mendoza,2020,180.00,1,180.00,Site Vinheria,RJ,Niteroi,Recorrente,PIX,4,343,5,5,0,1,Sexta,6,1
+225,2025-03-04,5,6,Rioja Gran Reserva,Tinto Seco,Espanha,Rioja,2014,560.00,2,1120.00,WhatsApp Giulio,PR,Curitiba,Novo,PIX,5,174,0,1,1,3,Quarta,12,0
+226,2024-12-04,15,6,Rioja Gran Reserva,Tinto Seco,Espanha,Rioja,2014,560.00,1,560.00,Instagram,SC,Florianopolis,Novo,Cartao Debito,5,63,0,5,1,12,Quinta,12,1
+227,2024-09-04,6,1,Brunello di Montalcino,Tinto Seco,Italia,Toscana,2016,890.00,1,890.00,Evento Degustacao,SC,Florianopolis,Novo,Boleto,5,731,0,3,1,9,Quarta,10,1
+228,2025-05-14,8,2,Barolo Riserva,Tinto Seco,Italia,Piemonte,2015,1250.00,2,2500.00,Marketplace Parceiro,BA,Salvador,Novo,PIX,5,781,0,2,1,5,Quarta,11,1
+229,2024-02-29,16,2,Barolo Riserva,Tinto Seco,Italia,Piemonte,2015,1250.00,1,1250.00,Marketplace Parceiro,DF,Brasilia,Recorrente,Cartao Credito,5,85,24,2,1,3,Sexta,11,1
+230,2025-03-17,20,4,Malbec Reserva,Tinto Seco,Argentina,Mendoza,2020,180.00,3,540.00,Instagram,RJ,Niteroi,Premium,PIX,4,92,1,0,1,3,Terca,6,1
+231,2025-03-22,9,8,Amarone della Valpolicella,Tinto Seco,Italia,Veneto,2017,780.00,4,3120.00,Evento Degustacao,PE,Recife,Recorrente,Cartao Debito,5,410,6,0,1,3,Domingo,9,1
+232,2024-11-17,25,8,Amarone della Valpolicella,Tinto Seco,Italia,Veneto,2017,780.00,1,780.00,Evento Degustacao,DF,Brasilia,Corporativo,PIX,5,293,20,5,1,11,Segunda,9,1
+233,2024-07-15,21,8,Amarone della Valpolicella,Tinto Seco,Italia,Veneto,2017,780.00,1,780.00,Site Vinheria,MG,Belo Horizonte,Recorrente,Boleto,5,347,6,3,1,7,Segunda,9,1
+234,2025-05-18,30,8,Amarone della Valpolicella,Tinto Seco,Italia,Veneto,2017,780.00,1,780.00,Evento Degustacao,MG,Uberlandia,Recorrente,Boleto,5,847,4,2,1,5,Domingo,9,1
+235,2024-11-17,13,8,Amarone della Valpolicella,Tinto Seco,Italia,Veneto,2017,780.00,3,2340.00,Instagram,RS,Porto Alegre,Recorrente,PIX,5,332,2,3,1,11,Segunda,9,1
+236,2024-08-28,25,6,Rioja Gran Reserva,Tinto Seco,Espanha,Rioja,2014,560.00,1,560.00,Evento Degustacao,DF,Brasilia,Corporativo,Boleto,5,293,20,5,1,8,Quarta,12,1
+237,2024-10-18,30,1,Brunello di Montalcino,Tinto Seco,Italia,Toscana,2016,890.00,3,2670.00,Site Vinheria,MG,Uberlandia,Recorrente,Cartao Credito,5,847,4,2,1,10,Sabado,10,1
+238,2024-10-30,25,3,Chablis Premier Cru,Branco Seco,Franca,Borgonha,2019,420.00,1,420.00,Evento Degustacao,DF,Brasilia,Corporativo,PIX,4,293,20,5,0,10,Quinta,7,1
+239,2024-07-22,21,1,Brunello di Montalcino,Tinto Seco,Italia,Toscana,2016,890.00,1,890.00,Site Vinheria,MG,Belo Horizonte,Recorrente,PIX,5,347,6,3,1,7,Segunda,10,1
+240,2024-01-14,28,6,Rioja Gran Reserva,Tinto Seco,Espanha,Rioja,2014,560.00,1,560.00,WhatsApp Giulio,SP,Sao Paulo,Recorrente,Boleto,5,592,2,2,1,1,Segunda,12,1
+241,2024-08-02,26,5,Douro Reserva,Tinto Seco,Portugal,Douro,2018,310.00,2,620.00,Instagram,BA,Salvador,Premium,PIX,4,506,20,3,1,8,Sexta,8,1
+242,2025-04-20,23,8,Amarone della Valpolicella,Tinto Seco,Italia,Veneto,2017,780.00,1,780.00,WhatsApp Giulio,PR,Curitiba,Premium,Cartao Credito,5,243,16,5,1,4,Domingo,9,1
+243,2025-03-25,25,6,Rioja Gran Reserva,Tinto Seco,Espanha,Rioja,2014,560.00,1,560.00,WhatsApp Giulio,DF,Brasilia,Corporativo,PIX,5,293,20,5,1,3,Quarta,12,1
+244,2024-12-09,24,4,Malbec Reserva,Tinto Seco,Argentina,Mendoza,2020,180.00,2,360.00,Evento Degustacao,SC,Florianopolis,Recorrente,Cartao Credito,4,401,23,2,0,12,Terca,6,0
+245,2025-03-24,24,3,Chablis Premier Cru,Branco Seco,Franca,Borgonha,2019,420.00,2,840.00,Instagram,SC,Florianopolis,Recorrente,PIX,4,401,23,2,1,3,Terca,7,1
+246,2024-10-30,8,1,Brunello di Montalcino,Tinto Seco,Italia,Toscana,2016,890.00,2,1780.00,Instagram,BA,Salvador,Novo,Cartao Credito,5,781,0,2,1,10,Quinta,10,1
+247,2024-08-15,18,6,Rioja Gran Reserva,Tinto Seco,Espanha,Rioja,2014,560.00,1,560.00,Marketplace Parceiro,PE,Recife,Novo,PIX,5,620,0,2,1,8,Quinta,12,0
+248,2025-03-12,18,1,Brunello di Montalcino,Tinto Seco,Italia,Toscana,2016,890.00,1,890.00,Instagram,PE,Recife,Novo,Cartao Debito,5,620,0,2,1,3,Quinta,10,1
+249,2025-03-09,19,6,Rioja Gran Reserva,Tinto Seco,Espanha,Rioja,2014,560.00,1,560.00,WhatsApp Giulio,SP,Sao Paulo,Recorrente,Cartao Debito,5,677,5,4,1,3,Segunda,12,1
+250,2025-03-02,25,6,Rioja Gran Reserva,Tinto Seco,Espanha,Rioja,2014,560.00,2,1120.00,Site Vinheria,DF,Brasilia,Corporativo,Boleto,5,293,20,5,1,3,Segunda,12,1
+251,2024-10-06,19,4,Malbec Reserva,Tinto Seco,Argentina,Mendoza,2020,180.00,2,360.00,Marketplace Parceiro,SP,Sao Paulo,Recorrente,Cartao Credito,4,677,5,4,0,10,Segunda,6,0
+252,2024-05-21,29,5,Douro Reserva,Tinto Seco,Portugal,Douro,2018,310.00,1,310.00,WhatsApp Giulio,RJ,Rio de Janeiro,Recorrente,PIX,4,13,17,2,0,5,Terca,8,1
+253,2024-08-25,24,5,Douro Reserva,Tinto Seco,Portugal,Douro,2018,310.00,1,310.00,Instagram,SC,Florianopolis,Recorrente,Cartao Credito,4,401,23,2,0,8,Domingo,8,1
+254,2024-02-04,14,8,Amarone della Valpolicella,Tinto Seco,Italia,Veneto,2017,780.00,1,780.00,WhatsApp Giulio,PR,Curitiba,Novo,PIX,5,413,0,1,1,2,Segunda,9,1
+255,2025-05-01,9,4,Malbec Reserva,Tinto Seco,Argentina,Mendoza,2020,180.00,2,360.00,Evento Degustacao,PE,Recife,Recorrente,Cartao Credito,4,410,6,0,0,5,Quinta,6,0
+256,2024-01-24,18,7,Sauvignon Blanc,Branco Seco,Nova Zelandia,Marlborough,2022,150.00,1,150.00,Site Vinheria,PE,Recife,Novo,Cartao Credito,3,620,0,2,0,1,Quinta,4,1
+257,2024-05-15,29,5,Douro Reserva,Tinto Seco,Portugal,Douro,2018,310.00,1,310.00,Marketplace Parceiro,RJ,Rio de Janeiro,Recorrente,Cartao Debito,4,13,17,2,0,5,Quarta,8,1
+258,2025-05-05,4,2,Barolo Riserva,Tinto Seco,Italia,Piemonte,2015,1250.00,1,1250.00,Instagram,RS,Gramado,Premium,Boleto,5,815,11,1,1,5,Segunda,11,1
+259,2024-04-02,20,3,Chablis Premier Cru,Branco Seco,Franca,Borgonha,2019,420.00,1,420.00,Site Vinheria,RJ,Niteroi,Premium,PIX,4,92,1,0,0,4,Quarta,7,1
+260,2024-11-10,7,5,Douro Reserva,Tinto Seco,Portugal,Douro,2018,310.00,1,310.00,Instagram,DF,Brasilia,Premium,Cartao Debito,4,668,2,3,0,11,Segunda,8,1
+261,2024-10-08,27,3,Chablis Premier Cru,Branco Seco,Franca,Borgonha,2019,420.00,1,420.00,Marketplace Parceiro,PE,Recife,Recorrente,PIX,4,314,8,2,0,10,Quarta,7,1
+262,2025-01-24,27,3,Chablis Premier Cru,Branco Seco,Franca,Borgonha,2019,420.00,1,420.00,Site Vinheria,PE,Recife,Recorrente,PIX,4,314,8,2,0,1,Sabado,7,1
+263,2024-12-28,7,2,Barolo Riserva,Tinto Seco,Italia,Piemonte,2015,1250.00,1,1250.00,Site Vinheria,DF,Brasilia,Premium,Boleto,5,668,2,3,1,12,Domingo,11,1
+264,2024-06-05,17,6,Rioja Gran Reserva,Tinto Seco,Espanha,Rioja,2014,560.00,2,1120.00,Evento Degustacao,BA,Salvador,Premium,PIX,5,173,14,5,1,6,Quarta,12,1
+265,2025-05-20,23,4,Malbec Reserva,Tinto Seco,Argentina,Mendoza,2020,180.00,3,540.00,Marketplace Parceiro,PR,Curitiba,Premium,Boleto,4,243,16,5,1,5,Terca,6,1
+266,2025-01-05,17,7,Sauvignon Blanc,Branco Seco,Nova Zelandia,Marlborough,2022,150.00,1,150.00,Evento Degustacao,BA,Salvador,Premium,PIX,3,173,14,5,0,1,Segunda,4,1
+267,2024-01-30,4,8,Amarone della Valpolicella,Tinto Seco,Italia,Veneto,2017,780.00,2,1560.00,Marketplace Parceiro,RS,Gramado,Premium,Boleto,5,815,11,1,1,1,Quarta,9,1
+268,2024-12-15,10,1,Brunello di Montalcino,Tinto Seco,Italia,Toscana,2016,890.00,1,890.00,Marketplace Parceiro,SP,Sao Paulo,Novo,Boleto,5,899,0,5,1,12,Segunda,10,0
+269,2024-09-26,26,8,Amarone della Valpolicella,Tinto Seco,Italia,Veneto,2017,780.00,1,780.00,Marketplace Parceiro,BA,Salvador,Premium,Cartao Credito,5,506,20,3,1,9,Quinta,9,1
+270,2025-02-12,28,1,Brunello di Montalcino,Tinto Seco,Italia,Toscana,2016,890.00,1,890.00,WhatsApp Giulio,SP,Sao Paulo,Recorrente,Cartao Debito,5,592,2,2,1,2,Quinta,10,1
+271,2024-11-21,17,3,Chablis Premier Cru,Branco Seco,Franca,Borgonha,2019,420.00,2,840.00,Marketplace Parceiro,BA,Salvador,Premium,Cartao Debito,4,173,14,5,1,11,Sexta,7,1
+272,2024-05-17,10,5,Douro Reserva,Tinto Seco,Portugal,Douro,2018,310.00,1,310.00,Evento Degustacao,SP,Sao Paulo,Novo,Cartao Debito,4,899,0,5,0,5,Sexta,8,0
+273,2024-10-01,28,3,Chablis Premier Cru,Branco Seco,Franca,Borgonha,2019,420.00,4,1680.00,Evento Degustacao,SP,Sao Paulo,Recorrente,Cartao Debito,4,592,2,2,1,10,Terca,7,1
+274,2024-09-13,25,2,Barolo Riserva,Tinto Seco,Italia,Piemonte,2015,1250.00,2,2500.00,Site Vinheria,DF,Brasilia,Corporativo,Cartao Debito,5,293,20,5,1,9,Sexta,11,1
+275,2024-10-28,21,4,Malbec Reserva,Tinto Seco,Argentina,Mendoza,2020,180.00,2,360.00,Marketplace Parceiro,MG,Belo Horizonte,Recorrente,Boleto,4,347,6,3,0,10,Terca,6,1
+276,2024-04-10,15,1,Brunello di Montalcino,Tinto Seco,Italia,Toscana,2016,890.00,1,890.00,Instagram,SC,Florianopolis,Novo,Cartao Debito,5,63,0,5,1,4,Quarta,10,0
+277,2024-08-29,11,2,Barolo Riserva,Tinto Seco,Italia,Piemonte,2015,1250.00,1,1250.00,Site Vinheria,RJ,Rio de Janeiro,Premium,Cartao Debito,5,518,19,3,1,8,Quinta,11,1
+278,2024-03-16,7,5,Douro Reserva,Tinto Seco,Portugal,Douro,2018,310.00,3,930.00,WhatsApp Giulio,DF,Brasilia,Premium,PIX,4,668,2,3,1,3,Domingo,8,0
+279,2024-09-09,16,1,Brunello di Montalcino,Tinto Seco,Italia,Toscana,2016,890.00,3,2670.00,Site Vinheria,DF,Brasilia,Recorrente,Cartao Credito,5,85,24,2,1,9,Segunda,10,1
+280,2024-10-19,2,7,Sauvignon Blanc,Branco Seco,Nova Zelandia,Marlborough,2022,150.00,3,450.00,Marketplace Parceiro,RJ,Niteroi,Recorrente,Boleto,3,343,5,5,0,10,Domingo,4,1

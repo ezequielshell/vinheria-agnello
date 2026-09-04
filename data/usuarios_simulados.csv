@@ -1,0 +1,31 @@
+﻿usuario_id,nome,email,uf,cidade,segmento_cliente,dias_desde_cadastro,qtd_pedidos_anteriores,qtd_favoritos
+1,Ana Costa,ana.costa@email.com,SP,Sao Paulo,Novo,477,0,4
+2,Bruno Silva,bruno.silva@email.com,RJ,Niteroi,Recorrente,343,5,5
+3,Carla Mendes,carla.mendes@email.com,MG,Belo Horizonte,Recorrente,482,7,0
+4,Diego Almeida,diego.almeida@email.com,RS,Gramado,Premium,815,11,1
+5,Elena Ribeiro,elena.ribeiro@email.com,PR,Curitiba,Novo,174,0,1
+6,Felipe Nunes,felipe.nunes@email.com,SC,Florianopolis,Novo,731,0,3
+7,Gabriela Souza,gabriela.souza@email.com,DF,Brasilia,Premium,668,2,3
+8,Henrique Lima,henrique.lima@email.com,BA,Salvador,Novo,781,0,2
+9,Isabela Ferreira,isabela.ferreira@email.com,PE,Recife,Recorrente,410,6,0
+10,Joao Martins,joao.martins@email.com,SP,Sao Paulo,Novo,899,0,5
+11,Karina Duarte,karina.duarte@email.com,RJ,Rio de Janeiro,Premium,518,19,3
+12,Lucas Prado,lucas.prado@email.com,MG,Uberlandia,Recorrente,343,7,2
+13,Mariana Teixeira,mariana.teixeira@email.com,RS,Porto Alegre,Recorrente,332,2,3
+14,Nicolas Barbosa,nicolas.barbosa@email.com,PR,Curitiba,Novo,413,0,1
+15,Olivia Campos,olivia.campos@email.com,SC,Florianopolis,Novo,63,0,5
+16,Paulo Rocha,paulo.rocha@email.com,DF,Brasilia,Recorrente,85,24,2
+17,Quiteria Dias,quiteria.dias@email.com,BA,Salvador,Premium,173,14,5
+18,Rafael Gomes,rafael.gomes@email.com,PE,Recife,Novo,620,0,2
+19,Sofia Carvalho,sofia.carvalho@email.com,SP,Sao Paulo,Recorrente,677,5,4
+20,Thiago Pires,thiago.pires@email.com,RJ,Niteroi,Premium,92,1,0
+21,Ursula Lopes,ursula.lopes@email.com,MG,Belo Horizonte,Recorrente,347,6,3
+22,Victor Araujo,victor.araujo@email.com,RS,Gramado,Recorrente,98,24,2
+23,Wanda Freitas,wanda.freitas@email.com,PR,Curitiba,Premium,243,16,5
+24,Xavier Moura,xavier.moura@email.com,SC,Florianopolis,Recorrente,401,23,2
+25,Yasmin Veiga,yasmin.veiga@email.com,DF,Brasilia,Corporativo,293,20,5
+26,Zeca Antunes,zeca.antunes@email.com,BA,Salvador,Premium,506,20,3
+27,Amanda Rios,amanda.rios@corp.com.br,PE,Recife,Recorrente,314,8,2
+28,Carlos Export,carlos.export@hotel.com.br,SP,Sao Paulo,Recorrente,592,2,2
+29,Diana Sommelier,diana.sommelier@wineclub.com,RJ,Rio de Janeiro,Recorrente,13,17,2
+30,Eduardo Restaurante,eduardo.chef@gastronomia.br,MG,Uberlandia,Recorrente,847,4,2

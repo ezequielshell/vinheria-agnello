@@ -1,0 +1,9 @@
+﻿vinho_id,nome_vinho,regiao_vinho,pais_origem,uva,tipo_vinho,safra,preco_catalogo,nota_giulio,estoque_inicial
+1,Brunello di Montalcino,Toscana,Italia,Sangiovese,Tinto Seco,2016,890.00,5,24
+2,Barolo Riserva,Piemonte,Italia,Nebbiolo,Tinto Seco,2015,1250.00,5,12
+3,Chablis Premier Cru,Borgonha,Franca,Chardonnay,Branco Seco,2019,420.00,4,30
+4,Malbec Reserva,Mendoza,Argentina,Malbec,Tinto Seco,2020,180.00,4,60
+5,Douro Reserva,Douro,Portugal,Touriga Nacional,Tinto Seco,2018,310.00,4,40
+6,Rioja Gran Reserva,Rioja,Espanha,Tempranillo,Tinto Seco,2014,560.00,5,18
+7,Sauvignon Blanc,Marlborough,Nova Zelandia,Sauvignon Blanc,Branco Seco,2022,150.00,3,80
+8,Amarone della Valpolicella,Veneto,Italia,Corvina,Tinto Seco,2017,780.00,5,15
